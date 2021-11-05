@@ -1895,7 +1895,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e09a89fea1411b54a85381426d14b765, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.1385589
+      value: -2.28
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e09a89fea1411b54a85381426d14b765, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1933,10 +1933,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7601226680800833775, guid: e09a89fea1411b54a85381426d14b765, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5b1b30ad48966034197fd647d7ae80e2, type: 2}
     - target: {fileID: 919132149155446097, guid: e09a89fea1411b54a85381426d14b765, type: 3}
       propertyPath: m_Name
       value: icecream
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: e09a89fea1411b54a85381426d14b765, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c6bce8c1cc5020d4eac273bcd86abde0, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e09a89fea1411b54a85381426d14b765, type: 3}
 --- !u!1 &1215454008
