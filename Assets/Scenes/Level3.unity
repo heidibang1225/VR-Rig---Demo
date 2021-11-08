@@ -489,7 +489,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4529054499327702646, guid: dfeec76bddbc07e4dab88ed174fe7be2, type: 3}
       propertyPath: m_Name
-      value: Rig
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4529054499327702648, guid: dfeec76bddbc07e4dab88ed174fe7be2, type: 3}
       propertyPath: m_RootOrder
