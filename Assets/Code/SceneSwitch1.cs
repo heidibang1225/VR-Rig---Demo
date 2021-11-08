@@ -11,7 +11,8 @@ public class SceneSwitch1 : MonoBehaviour
 
 
 
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision other)//change this trigger enter into collision enter
+        //get rid of the player
     {
         if (other.gameObject.CompareTag("Player"))
         {
