@@ -11,7 +11,7 @@ public class SceneSwitch1 : MonoBehaviour
 
 
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
