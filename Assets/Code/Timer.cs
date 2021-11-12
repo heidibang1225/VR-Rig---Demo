@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*
 public class Timer : MonoBehaviour
 {
     public float timeValue = 90;
@@ -28,8 +29,9 @@ public class Timer : MonoBehaviour
                                                                  //in this example, modulo is used to return the number of seconds from the total time value that do not make up a whole minute
             timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
             TimeToDisplay += 1;
-            yeild return new WaitForSeconds(1);
+            yield return new WaitForSeconds(1);
         }
         
     }
 }
+ */
