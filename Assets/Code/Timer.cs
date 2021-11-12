@@ -6,7 +6,8 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-   // public float timeValue = 90;
+    public float TimeToDisplay = 90;
+    // public float timeValue = 90;
     public Text timerText;
     bool timerStarted = false;
    
@@ -20,7 +21,7 @@ public class Timer : MonoBehaviour
     }
     IEnumerator TimerStarted()
     {
-        float TimeToDisplay = 90;
+        //while Loops can execute a block of code as long as a specified condition is reached.
         while (true)//this is a loop to check if it is true
         {
            
@@ -34,7 +35,10 @@ public class Timer : MonoBehaviour
             //TimeToDisplay += 1;//this is the same thing to TimeToDisplay++
             TimeToDisplay -= 1;
             yield return new WaitForSeconds(1);
+            
+
         }
+        
         
     }
 }

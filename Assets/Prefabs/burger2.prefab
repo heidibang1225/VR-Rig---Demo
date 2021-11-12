@@ -573,7 +573,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 145170925016064926}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: burger2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
