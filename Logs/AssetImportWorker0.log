@@ -6042,3 +6042,85 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1465.052483 seconds.
+  path: Assets/Scenes/Level3.unity
+  artifactKey: Guid(3450c0e51055ca342b328650b0cab0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level3.unity using Guid(3450c0e51055ca342b328650b0cab0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3347d53679e55cb6164144f12a7cdcde') in 0.037613 seconds 
+  Import took 0.051140 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 24.32 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.32 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.8 MB.
+System memory in use after: 81.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3744.
+Total: 15.879800 ms (FindLiveObjects: 0.855200 ms CreateObjectMapping: 0.390900 ms MarkObjects: 14.401300 ms  DeleteObjects: 0.229800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 251.817316 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(a14887e9f15b53a4dba65240cb0d27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(a14887e9f15b53a4dba65240cb0d27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4db4c587fa48ac2f81a70078341c65') in 0.051495 seconds 
+  Import took 0.064004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.022620 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd5508a1c8c3b9a858d987274b8e979') in 0.014428 seconds 
+  Import took 0.025586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.065661 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(a14887e9f15b53a4dba65240cb0d27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(a14887e9f15b53a4dba65240cb0d27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b847ff0aa799f27832a86d0c70207235') in 0.016592 seconds 
+  Import took 0.033961 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 18.86 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.8 MB.
+System memory in use after: 81.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3744.
+Total: 13.224500 ms (FindLiveObjects: 0.955600 ms CreateObjectMapping: 0.534600 ms MarkObjects: 11.389000 ms  DeleteObjects: 0.341800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2378.184080 seconds.
+  path: Assets/draftviews.fbx
+  artifactKey: Guid(2dacc3d3510a76645963a86652c0d663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/draftviews.fbx using Guid(2dacc3d3510a76645963a86652c0d663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17295cb4ba37cd8ce3a0e031afb5364') in 1.597769 seconds 
+  Import took 1.655161 seconds .
+

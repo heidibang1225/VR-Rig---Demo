@@ -3994,7 +3994,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TimeToDisplay: 90
-  youLostText: {fileID: 1980509824}
   timerText: {fileID: 1219942801}
 --- !u!54 &1623765627
 Rigidbody:
