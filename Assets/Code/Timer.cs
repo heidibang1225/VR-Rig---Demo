@@ -7,13 +7,14 @@ using UnityEngine.UI;
 public class Timer : MonoBehaviour
 {
     public float TimeToDisplay = 90;
+    //public Canvas youLostText;
     // public float timeValue = 90;
     public Text timerText;
     bool timerStarted = false;
-   
+    
     void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.CompareTag("Player") && !timerStarted)//if the player touches this object
+        if (other.gameObject.CompareTag("Player") && !timerStarted)//if the player touches this object and timer did not start yet
         {
             StartCoroutine(TimerStarted());//start the timer after a mini pause
             timerStarted = true;//turn the timer on to start because it was false before
@@ -32,6 +33,7 @@ public class Timer : MonoBehaviour
             {
                 Debug.Log("yessssssss time ran out");
                 //TimeToDisplay -= 1;
+               // youLostText.enabled = true;
             }
 
 
