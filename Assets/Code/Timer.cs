@@ -34,6 +34,8 @@ public class Timer : MonoBehaviour
                 Debug.Log("yessssssss time ran out");
                 //TimeToDisplay -= 1;
                // youLostText.enabled = true;
+
+
             }
 
 

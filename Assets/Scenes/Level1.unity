@@ -395,6 +395,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &67627211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67627209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc5fd62f98929543a9d6f97ccf2cee7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectSound: {fileID: 0}
 --- !u!1 &85453783 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8353679240599951741, guid: a4979f6773a04484c81daaf97c19d884, type: 3}
@@ -4518,7 +4531,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &1848904723
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5181,7 +5194,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8164246486560902351, guid: a4979f6773a04484c81daaf97c19d884, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.647
+      value: -2.68
       objectReference: {fileID: 0}
     - target: {fileID: 8164246486560902351, guid: a4979f6773a04484c81daaf97c19d884, type: 3}
       propertyPath: m_LocalPosition.y
