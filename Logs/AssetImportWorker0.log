@@ -913,3 +913,11 @@ Received Import Request.
 Start importing Assets/ADG_Textures/ground_vol1/ground14/ground14_Normal.tga using Guid(bb9441ad1e914614c84125c92ac95253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c2098030dc47f2081f8a2d71838fc2') in 0.035534 seconds 
   Import took 0.043899 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3732.932041 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(a14887e9f15b53a4dba65240cb0d27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(a14887e9f15b53a4dba65240cb0d27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8152d1482ca48a380a67eb927288db') in 0.002243 seconds 
+  Import took 0.007080 seconds .
+
